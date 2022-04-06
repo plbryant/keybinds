@@ -1,0 +1,5 @@
+alias zshconfig="nvim ~/.zshrc"
+alias ls="exa --icons"
+alias n="nvim"
+alias translate="trans :es"
+
