@@ -1,4 +1,5 @@
 alias zshconfig="nvim ~/.zshrc"
 alias n="nvim"
 alias translate="trans :es"
+alias k="exa --oneline -l -F -a --icons --git"
 
